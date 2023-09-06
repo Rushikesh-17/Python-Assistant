@@ -1,0 +1,6 @@
+Rishi:00:19:30 :- 5255 - 20022
+Rishi:09:23:00 :- 5 + 4 + 6 + 9
+Rishi:10:27:09 :- cal dadar
+Rishi:11:10:46 :- google youtube
+Rishi:11:17:51 :- open there is xaviers college of engineering
+Rishi:11:18:13 :- cal xaviers college
